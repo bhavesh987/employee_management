@@ -1,0 +1,9 @@
+-- login access --
+user name = admin
+password = admin
+
+-- DB Name --
+DB Name = employees
+
+-- file atteched --
+Table name = employees
